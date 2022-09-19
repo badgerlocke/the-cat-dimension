@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+div.rounded {
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+label {
+    display: block;
+}
+input {
+    display: block;
+}
+#previewTable {
+    width: 100%;
+}
