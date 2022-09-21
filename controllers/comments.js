@@ -21,6 +21,7 @@ module.exports = {
         { _id: req.params.id },
         {
           $inc: { likes: 1 },
+          $addToSet: { likedBy: req.user.id}
         }
       );
       console.log("Likes +1");
