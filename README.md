@@ -1,16 +1,16 @@
 # About
 
-A social media app where users can share pics of cats, gain points, and blast off into the cat dimension
+A social media app where cats can post pictures of themselves, gain points, and blast off into the cat dimension.
 
 Work in progress! Currently building the social media side.
 Todo:
-  Front end:
-  - Improve layout
+  Improve layout
   Comments:
   - Allow editing of comments
   - Allow liking of comments
-  Upvotes:
-  - Track upvotes by user - disallow multiple upvotes, allow unliking
+  Create "admin" accounts 
+  - Remove ability of non-admins to post (to keep things clean for demo version)
+  Add leaderboard
 
 
   Stretch goals:
